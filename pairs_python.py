@@ -14,6 +14,7 @@ print('\n'* 2)
 ######################################
 
 ##https://en.wikipedia.org/wiki/Round-robin_tournament#Scheduling_algorithm
+##https://stackoverflow.com/questions/56428614/groups-of-unique-pairs-where-members-appear-once-per-group/56435147#56435147
 
 
 n = int(len(teams)/2)       #number of combinations within one round, 6 teams --> 6/2 = 3 combinations
