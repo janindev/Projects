@@ -32,6 +32,3 @@ count = 1
 for i in groups:
     print(f'Round {count}', i, '\n')
     count = count+1
-
-
-    
